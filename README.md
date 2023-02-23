@@ -5,7 +5,7 @@
 
 > <img src="https://cdn-icons-png.flaticon.com/512/9062/9062413.png" width="50px" align="center">
 
-> Actualmente desarrollo sitios web de forma independiente, aunque busco trabajo activamente en el rubro IT ya que me apasiona el trabajo en equipo y los nuevos desafíos.
+> Aunque, actualmente, trabajo de forma independiente, busco trabajo activamente en el rubro IT dado que me prefiero el trabajo en equipo y los nuevos desafíos.
 
 ### Tecnologías y Herramientas
 
@@ -17,6 +17,7 @@
 > <img src="https://cdn-icons-png.flaticon.com/512/5963/5963166.png" alt="mancuerna" width="30px"> GYM </br>
 > <img src="https://cdn-icons-png.flaticon.com/512/527/527133.png" alt="piano" width="30px"> Piano </br>
 > <img src="https://cdn-icons-png.flaticon.com/512/1474/1474229.png" alt="joystick" width="30px"> Gamming </br>
+
 
 ### Contactame
 >Siénte libre de contactarme a través de: 
