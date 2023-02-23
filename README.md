@@ -1,7 +1,10 @@
 <h2>Hola a todos!</h2>
 
 ### Soy [Lucas García](https://www.linkedin.com/in/lucas-jorge-garcia/)
-> Tengo 26 años, soy estudiante de lenguajes de diseño y desarrollo web Full Stack y futuro Ingeniero Informático.
+> Tengo 26 años, soy estudiante de Ingeniería Informática en la UTN y me apasionan las tecnologías de desarrollo web tanto Front-End como Back-End. 
+
+> <img src="https://cdn-icons-png.flaticon.com/512/9062/9062413.png" width="50px" align="center">
+
 > Actualmente desarrollo sitios web de forma independiente, aunque busco trabajo activamente en el rubro IT ya que me apasiona el trabajo en equipo y los nuevos desafíos.
 
 ### Tecnologías y Herramientas
