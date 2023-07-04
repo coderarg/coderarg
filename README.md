@@ -1,15 +1,5 @@
-### Hola! soy [Lucas](https://www.linkedin.com/in/lucas-jorge-garcia/)  
-Tengo 26 años, estudio Ingeniería Informática y Desarrollo Web Full Stack.
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3079/3079331.png" alt="tecnologías" width="25px"> Tecnologías y Herramientas
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt ="javascript"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff" alt="sass"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" alt="react"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" alt="mysql"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/9062/9062413.png" width="25px"> Hobbies
-
-<img src="https://cdn-icons-png.flaticon.com/512/1903/1903496.png" alt="pc-code" width="30px"> <img src="https://cdn-icons-png.flaticon.com/512/5963/5963166.png" alt="mancuerna" width="30px"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906496.png" alt="meditar" width="30px"> <img src="https://cdn-icons-png.flaticon.com/512/527/527133.png" alt="piano" width="30px"> <img src="https://cdn-icons-png.flaticon.com/512/1474/1474229.png" alt="joystick" width="30px"> 
-
+### Hola! soy Lucas
+Estudio de Desarrollo Web Full Stack e Ingeniería Informática.
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1380/1380338.png" alt="mensaje" width="25px">  Contactame
 <p>Siéntete libre de contactarme a través de:</p> 
