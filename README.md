@@ -1,5 +1,5 @@
 ### Hola! soy Lucas
-Estudio de Desarrollo Web Full Stack e Ingeniería Informática.
+Estudio Desarrollo Web Full Stack e Ingeniería Informática.
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1380/1380338.png" alt="mensaje" width="25px">  Contactame
 <p>Siéntete libre de contactarme a través de:</p> 
