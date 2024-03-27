@@ -2,9 +2,6 @@
 Soy estudiante de Desarrollo Web Full-Stack y busco mi primer empleo en el rubro IT, en una empresa que me de la oportunidad de crecer profesionalmente y poner en práctica lo que aprendo día a día.
 Mi objetivo a corto plazo es finalizar satisfactoriamente los cursos de desarrollo y retomar la carrera de Ingeniería Informática.
 
-### Porfolio
-[Link al Porfolio](https://drive.google.com/drive/folders/1-HaRj3FI1r12LAHmxs0Gf3VWHRVkUZ6-?usp=sharing)
-
 ### <img src="https://cdn-icons-png.flaticon.com/512/1380/1380338.png" alt="mensaje" width="25px">  Contactame
 <p>Siéntete libre de contactarme a través de:</p> 
                                                 
